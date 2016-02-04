@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mukund-imac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/mukund-imac/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-cf9588689f34839ba261eb537ba250e86619aced.jar" />
+    </item>
+    <item
+        jar="/Users/mukund-imac/AndroidStudioProjects/Android-Text-to-PDF-master/app/libs/itextpdf-5.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6707823d598a75eb9959635b72d45dc318714a09">
+        <dex dex="/Users/mukund-imac/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/pre-dexed/debug/itextpdf-5.3.3-0226b2cc4142acddf11d26e5c2d54fc6d7c76bd1.jar" />
+    </item>
+
+</items>
